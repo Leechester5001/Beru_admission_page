@@ -1,4 +1,15 @@
+/**
+* Template Name: Append
+* Updated: Sep 18 2023 with Bootstrap v5.3.2
+* Template URL: https://bootstrapmade.com/append-bootstrap-website-template/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
 
+/*--------------------------------------------------------------
+# Font & Color Variables
+# Help: https://bootstrapmade.com/color-system/
+--------------------------------------------------------------*/
 /* Fonts */
 :root {
   --default-font: "Open Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -1498,7 +1509,7 @@ section {
   color: rgba(255,255,255, 1);
   background-color: rgba(50,100,0);
   display: inline-block;
-  padding: 10px 40px;
+  padding: 40px 40px;
   border-radius: 4px;
 /*   border: 1px solid rgba(var(--default-color-rgb), 0.2); */
   transition: none;
