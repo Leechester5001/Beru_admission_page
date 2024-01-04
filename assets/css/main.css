@@ -2120,15 +2120,14 @@ section {
 .hero .php-email-form textarea:focus {
   css declarations;
   /* background-color:#rgba(20, 20, 100, 0.7); */
-  border-color: rgba(var(--primary-color),0.2);
+  border-color: rgba(255,255,255,0.2);
 }
 
 .hero .php-email-form input[type=text]::-moz-placeholder,
 .hero .php-email-form input[type=phone]::-moz-placeholder,
 .hero .php-email-form input[type=email]::-moz-placeholder,
 .hero .php-email-form textarea::-moz-placeholder {
-  css declarations;
-  background:#rgba(100, 0, 0, 0.1);
+  
   color:#fff;
   backdrop-filter: blur(15px);
 
@@ -2155,6 +2154,8 @@ section {
   color:#fff;
   backdrop-filter: blur(15px);
   border-radius: 0px;
+  margin-top: 10px;
+  
   /* color: rgba(var(--default-color-rgb), 0.6); */
 }
 
